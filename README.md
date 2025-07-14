@@ -1,3 +1,6 @@
+> [!TIP]
+> For a maintained Redmine 6.x fork, see [Opale](https://github.com/gagnieray/opale)
+
 # PurpleMine 2
 
 A free Redmine 3.0+ theme written in SCSS.
