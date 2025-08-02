@@ -1,5 +1,5 @@
-> [!TIP]
-> For a maintained Redmine 6.x fork, see [Opale](https://github.com/gagnieray/opale)
+jazz cash > [!TIP]
+> For a maintained Redmine 6.x fork, see [Opale](https://github.com/gagnieray/opalescent)
 
 # PurpleMine 2
 
